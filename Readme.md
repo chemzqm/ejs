@@ -14,12 +14,6 @@ var text = ejs.render(html, locals);
 
     $ component install chemzqm/ejs
 
-## API
-
-### 
-
-* Argument could be `Date Object` valid `DateTimeString` or UNIX timestamp.
-
 ## License
 
   The MIT License (MIT)
