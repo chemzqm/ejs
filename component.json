@@ -1,7 +1,7 @@
 {
   "name": "ejs",
   "description": "easy javascript template engine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "keywords": [],
   "dependencies": {},
   "development": {
@@ -12,7 +12,10 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": [
-    "index.js"
+    "index.js",
+    "lib/ejs.js",
+    "lib/filters.js",
+    "lib/utils.js"
   ],
   "repository": "chemzqm/ejs"
 }
